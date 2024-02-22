@@ -1,4 +1,4 @@
 commit-check==0.7.1
 cpp-linter==1.7.2
-cpp-linter-hooks==0.2.8
+cpp-linter-hooks==0.2.9
 clang-tools-pip==0.1.0
